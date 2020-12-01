@@ -1,3 +1,5 @@
+# This is a Fork to migrate to a newer version of go and a newer version of adafruit io
+___
 # talk to adafruit io from Go
 
 [![GoDoc](http://godoc.org/github.com/adafruit/io-client-go?status.svg)](http://godoc.org/github.com/adafruit/io-client-go)
