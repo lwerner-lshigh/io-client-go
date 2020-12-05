@@ -1,25 +1,25 @@
-API v1 Endpoints
+API v2 Endpoints
 
-- [x] Feeds
-  - [x] Index
-  - [x] Create
-  - [x] Read
-  - [x] Update
-  - [x] Delete
-- [x] Data
-  - [x] Index
-  - [x] Create
-  - [x] Read
-  - [x] Update
-  - [x] Delete
-  - [x] Helper Methods
-    - [x] Send
-    - [x] Next
-    - [x] Last
-    - [x] Previous
+- [] Feeds
+  - [] Index
+  - [] Create
+  - [] Read
+  - [] Update
+  - [] Delete
+- [] Data
+  - [] Index
+  - [] Create
+  - [] Read
+  - [] Update
+  - [] Delete
+  - [] Helper Methods
+    - [] Send
+    - [] Next
+    - [] Last
+    - [] Previous
 - [] Groups
-  - [x] Index
-  - [x] Create
+  - [] Index
+  - [] Create
   - [ ] Read
   - [ ] Update
   - [ ] Delete

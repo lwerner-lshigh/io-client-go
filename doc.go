@@ -2,7 +2,7 @@
 // This code is under the MIT License that can be found in the LICENSE file.
 
 /*
-The adafruitio package is a simple HTTP client for accessing v1 of the Adafruit IO REST API at https://io.adafruit.com.
+The adafruitio package is a simple HTTP client for accessing v2 of the Adafruit IO REST API at https://io.adafruit.com.
 
 	import "github.com/adafruit/io-client-go"
 
@@ -31,6 +31,6 @@ create the Feed, make sure you set the `Key` attribute on the new Feed.
 	client.SetFeed(newFeed)
 	client.Data.Send(&adafruitio.Data{Value: 100})
 
-You can see the v1 Adafruit IO REST API documentation online at https://io.adafruit.com/api/docs/
+You can see the v2 Adafruit IO REST API documentation online at https://io.adafruit.com/api/docs/
 */
 package adafruitio

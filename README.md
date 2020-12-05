@@ -1,4 +1,5 @@
 # This is a Fork to migrate to a newer version of go and a newer version of adafruit io
+the goal is to stay on par with the python version of the client
 ___
 # talk to adafruit io from Go
 
